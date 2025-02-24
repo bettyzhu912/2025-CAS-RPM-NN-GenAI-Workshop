@@ -45,6 +45,15 @@ Then you can open the notebook in your browser.
 
 This notebook uses an OpenAI-based approach for simplicity. Given the low token usage, it should only cost a few cents to run.
 
+
+### Shared API Key:
+
+We will share a token with you to use for duration of the workshop. 
+
+### Personal API Key:
+
+If you'd like to rerun this notebook on your own, follow these steps:
+
 - If you're new to the OpenAI API, [sign up for an account](https://platform.openai.com/signup).
 - Follow the [Quickstart](https://platform.openai.com/docs/quickstart) to retrieve your API key.
 
