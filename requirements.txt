@@ -1,0 +1,11 @@
+# Part 1: 
+
+# Part 2: 
+openparse==0.5.8
+openai==1.59.3
+scikit-learn
+pydantic
+plotly
+jupyter
+numpy
+
